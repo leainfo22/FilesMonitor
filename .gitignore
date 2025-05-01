@@ -9,3 +9,9 @@
 /Iconstruye.RenombrarDocs.Core/obj
 /RenombrarDocs.Infraestructure/bin
 /RenombrarDocs.Infraestructure/obj
+/FilesMonitor.ManageNames.Core/bin
+/FilesMonitor.ManageNames.Core/obj
+/FilesMonitor.ManageNames.Infraestructure/bin
+/FilesMonitor.ManageNames.Infraestructure/obj
+/FilesMonitor.ManageNames.Worker/bin
+/FilesMonitor.ManageNames.Worker/obj

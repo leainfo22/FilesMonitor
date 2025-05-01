@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Iconstruye.RenombrarDocs.Core\FilesMonitor.ManageNames.Core.csproj" />
-    <ProjectReference Include="..\RenombrarDocs.Infraestructure\FilesMonitor.ManageNames.Infraestructure.csproj" />
+    <ProjectReference Include="..\FilesMonitor.ManageNames.Core\FilesMonitor.ManageNames.Core.csproj" />
+    <ProjectReference Include="..\FilesMonitor.ManageNames.Infraestructure\FilesMonitor.ManageNames.Infraestructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

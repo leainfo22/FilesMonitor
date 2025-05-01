@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Iconstruye.RenombrarDocs.Core\FilesMonitor.ManageNames.Core.csproj" />
+    <ProjectReference Include="..\FilesMonitor.ManageNames.Core\FilesMonitor.ManageNames.Core.csproj" />
   </ItemGroup>
 
 </Project>

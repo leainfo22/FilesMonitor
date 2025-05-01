@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Iconstruye.RenombrarDocs.AsiaShipping/bin
+/Iconstruye.RenombrarDocs.AsiaShipping/obj
+/Iconstruye.RenombrarDocs.Core/bin
+/Iconstruye.RenombrarDocs.Core/obj
+/RenombrarDocs.Infraestructure/bin
+/RenombrarDocs.Infraestructure/obj
